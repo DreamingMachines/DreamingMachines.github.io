@@ -29,4 +29,4 @@ Our first priority is the experience of the non-technical power user: we aim to 
 
 If this is a tool you want to use, sign-up below and we’ll send you an invitation to our exclusive closed alpha when it's ready.
 Our first push will focus on raster art, but we’re planning to expand into sound effects, vector art, music and more!
-If there’s something you really want to see, shoot us a message on GitHub and we can explore the possibilities together.
+If there’s something you really want to see, email us at dreaming.machines.corporation@gmail.com and we can explore the possibilities together.
